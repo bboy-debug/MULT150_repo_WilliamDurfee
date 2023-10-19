@@ -1,0 +1,17 @@
+Is the game too easy or hard?
+---
+The game isn't easy. The balls move really fast and are difficult to react. Especially in the beginning when starting the game.
+
+What would make it easier or harder?
+---
+Decreasing the speed of the balls would make the game easier. I could also remove the Chaos Balls to reduce the amount of collisions. Or perhaps increasing the speed of the bumper could allow players to keep up with the balls. However, there is a "run" ability when holding the shift key.
+
+What would give it a "wow" factor?
+---
+Sound effects would give the game a more satisfying feel. No sounds trigger when the balls collide and is unsatisfying. Lack of recognitiion when a ball enters a goal leads to slight confusion.
+
+What parts of the game are fun? What parts of the game are tedious?
+---
+I find hitting the last ball into the goal to be the most fun and satisfying because I feel like I have more control. 
+
+When the balls are moving at high speeds however, its so fast to keep up. Not to mention the smaller Chaos Balls add collision towards other balls, making them move even faster and launches them in a direction that I personally consider unreactable.

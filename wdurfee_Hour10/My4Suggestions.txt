@@ -1,0 +1,36 @@
+Pick 4 suggestions for enhancing the game from the exercise and add implement them in your project:
+
+General
++ added columns (cylinders) in background
++ added giant balls in background
+
+(Notes: I liked the water aesthetic and wanted to create a background scene that can either be interpreted as sunken ruin will pillars sticking out of the water, or a game show with obstacles similar to Wipeout.)
+
+
+Bumper
++ added a sphere to the bumper's shape
++ kept the Box Collider 
++ Box Collider covers a slighty larger area
++ added new Footstep Sounds
++ added collision sounds
+	+ small sound for Chaos balls
+	+ large one for Colored balls
+
+(Notes: I wanted players to identify which type of ball has collided with them. It can be difficult to judge without sound cues due to the balls fast travel speed. I also decided to leave the speed as it is for a provided challenge.)
+
+
+Timer
++ recycled timer and isRunning scripting from Hour 6
+
+(Notes: now players can aim for high scores!)
+
+
+Sounds & Music
++ added sounds and music from Super Monkey Ball 2 OST (SEGA).
+
+I DO NOT OWN THE RIGHTS TO THE SUPER MONKEY BALL FRANCHISE (SEGA). This is simply a "for-fun" experiment. Any music and sounds are simply used here for experimentation purposes only.
+
+(Notes: the setting I've created reminds me of a childhood favorite game of mine, Super Monkey Ball 2.)
+
+
+
