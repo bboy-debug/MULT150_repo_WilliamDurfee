@@ -4,7 +4,7 @@ General
 + added columns (cylinders) in background
 + added giant balls in background
 
-(Notes: I liked the water aesthetic and wanted to create a background scene that can either be interpreted as sunken ruin will pillars sticking out of the water, or a game show with obstacles similar to Wipeout.)
+(Notes: I liked the water aesthetic and wanted to create a background scene that can either be interpreted as sunken ruins with pillars sticking out of the water, or a game show with obstacles similar to Wipeout.)
 
 
 Bumper
