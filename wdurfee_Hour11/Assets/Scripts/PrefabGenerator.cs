@@ -4,13 +4,13 @@ using UnityEngine;
 
 public class PrefabGenerator : MonoBehaviour
 {
+    public GameObject prefab;
+
     // Start is called before the first frame update
     void Start()
     {
-        
-    }
 
-    public GameObject prefab;
+    }
 
     // Update is called once per frame
     void Update()
