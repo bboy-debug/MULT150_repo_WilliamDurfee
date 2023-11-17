@@ -1,0 +1,59 @@
+(NOTE: responses need to be detailed to receive credit.)
+
+1. Is the game to easy or hard? Give 3 unique reasons why it is easy or hard.
+---------------------------------------
+For me, I find the game fairly balanced in difficulty. My problem with this is that the difficulty doesn't change. It is too easy
+for more experienced players to endlessly play the game without losing. They are never likely to lose because there's no increasing
+difficulty:
+- Obstacles don't appear as often as they should overtime. Without an increasing difficulty in dodging obstacles, the game's fun
+factor remains stagnant. There's no challenge.
+- The speed that powerups and obstacles move don't increase either. Making these slightly more harder to avoid or collect can test
+the player's reaction time and skill. However...
+-...the player's movement speed is too slow. There's a bit of added weight and momentum the player character has when changing 
+direction. In some cases, this could work in some games that focus on movement, but I feel that GauntletRunner should focus more on
+speed and reaction time. 
+
+
+2. What 3 changes would you do to make it easier or harder?
+---------------------------------------
+- Obstacles should increase in numbers overtime. The starting amount is okay, but there should be a constant increase of obstacles
+the longer the game is played. This adds difficulty for players who survive the gauntlet longer. More challenge, more excitement.
+- Obstacles and powerups should increase in speed overtime. Testing the player's reaction time could test their skills and improve
+after multiple play sessions. However, we would also have to...
+-...increase the player's movement speed. If we make all the following changes and not support the player character's acceleration
+and turning, then obstacles and powerups will be nearly impossible for the player to grab and react to in a fair manner. 
+
+
+3. List three things that would give it a "wow" factor.
+---------------------------------------
+- I would add sound effects. I doesn't feel satisfying to collect powerups for there isn't any sound recognition. It feels empty.
+- I would add music. Without sounds, the game feels like it doesn't have much of a personality (aside from the visuals). I feel that
+adding music would give the game more of an identity.
+- I would improve the animation (and speed). The character's running animation is fine, but the speed of the scrolling textures does 
+not match the speed of the running animation. I would increase the speed of the character's running animation and the scrolling 
+textures so the player feels fast instead of awkwardly running at a snail's pace.
+
+
+4. What parts of the game are fun? 3 items
+---------------------------------------
+- Collecting powerups to get a time increase is almost satisfying, however there's barely any recognition via sound or visual when
+obtaining one.
+- Timing a well-placed "phaseOut" ability right before hitting an obstacle can bring some enjoyment. Nearly getting hit by damage in a
+video game can feel really exciting.
+- The colors are fun. The "cyberpunk-like" theme is fairly entertaining (perhaps adding more decor to that theme could really
+"sell" the game's atmosphere...)
+
+
+5. What parts of the game are tedious? 3 items
+---------------------------------------
+- As previously mentioned, the game's too easy. The difficulty never increases, so repeating the same tasks without any extra
+challenge can be boring.
+- Players don't like to be slowed, although I can kinda excuse the obstacles as that is their intentional design. Still, I'd
+rather lose health in a game than having my mobility constantly being slowed down everytime I make an error.
+- The "phaseOut" ability is ALMOST pointless. I've never found a reason to use it to dodge obstacles, as I can easily move out of the
+way by simply moving left of right (perhaps adding a new obstacle that requires the player to use the "phaseOut" ability could
+add some extra challenge and utility for the ability...)
+
+Personal Notes:
+- character run animation too slow (pg365-367)
+- floor material moves too slow
